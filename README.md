@@ -4,7 +4,7 @@
  Rudiberto Dias Assis <br><br>
      🖥️ Systems Analyst at E-trust <br>
      👨‍💻 Estudante e programador em tempo integral
-<div align="left">
+<div align="center">
   <a href="https://github.com/RudibertoDiasAssis">
   <img height="132em" src="https://github-readme-stats.vercel.app/api?username=RudibertoDiasAssis&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="132em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudibertoDiasAssis&layout=compact&langs_count=7&theme=great-gatsby"/>
